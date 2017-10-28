@@ -1,1 +1,1 @@
-# helloworld - Lead Beginner project
+# helloworld - Lead Beginner project for testing git unauth mode
